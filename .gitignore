@@ -3,6 +3,12 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=eclipse,intellij
 
 ### Eclipse ###
+/target/
+/.classpath
+/*.project
+/.settings
+/*.springBeans
+
 .metadata
 bin/
 tmp/
