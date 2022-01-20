@@ -6,7 +6,7 @@
 /target/
 /.classpath
 /*.project
-**/.settings/
+/.settings
 /*.springBeans
 
 .metadata
